@@ -1,5 +1,9 @@
 # Victory for MiSTer
 
+> **Development has moved.** This repository is no longer maintained.
+> For current source, releases and issues, use
+> [MiSTer-devel/Arcade-Victory_MiSTer](https://github.com/MiSTer-devel/Arcade-Victory_MiSTer).
+
 FPGA implementation of Exidy's **Victory (1982)**, based on Template_MiSTer
 and the original operation/service schematics. Includes graphics, sound and
 speech, rotary controls, pause with optional OSD pause/dimming, and automatic
