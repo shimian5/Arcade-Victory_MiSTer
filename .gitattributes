@@ -1,0 +1,3 @@
+# Preserve imported source bytes and upstream line endings.
+* -text
+*.rbf binary
